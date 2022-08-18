@@ -1,0 +1,8 @@
+git remote add jiaguozucode git@sqbu-github.cisco.com:jiaguozu/spark-client-framework.git
+
+CiscoCollabHost.exe /serverEnv=integration
+SparkWindowsDirect.exe /serverEnv=integration
+
+CiscoCollabHost.exe /convergedGuestLogin
+
+join 10024754511@convergedats.webex.com with 27 ucf_api duration=120
