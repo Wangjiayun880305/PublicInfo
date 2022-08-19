@@ -6,3 +6,5 @@ SparkWindowsDirect.exe /serverEnv=integration
 CiscoCollabHost.exe /convergedGuestLogin
 
 join 10024754511@convergedats.webex.com with 27 ucf_api duration=120
+
+toggle autoUpdatePolicy = Off
