@@ -1,3 +1,5 @@
+http://spark-nfs.cisco.com/pull_request_artifacts/
+
 git remote add jiaguozucode git@sqbu-github.cisco.com:jiaguozu/spark-client-framework.git
 
 CiscoCollabHost.exe /serverEnv=integration
