@@ -11,3 +11,9 @@ join 10024754511@convergedats.webex.com with 27 ucf_api duration=120
 join 2091600723@go.webex.com video=off with 20 webex_api duration=30
 
 toggle autoUpdatePolicy = Off
+
+Linux
+export QTDIR=~/Qt/qt64
+export QT_DIR=~/Qt/qt64
+export BUILD_DIR=~/spark-client-framework/build_ubuntu
+ninja -f build-Release.ninja sparkLinux
