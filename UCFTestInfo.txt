@@ -16,4 +16,5 @@ Linux
 export QTDIR=~/Qt/qt64
 export QT_DIR=~/Qt/qt64
 export BUILD_DIR=~/spark-client-framework/build_ubuntu
+./run_cmake_teams_qt_linux.sh
 ninja -f build-Release.ninja sparkLinux
