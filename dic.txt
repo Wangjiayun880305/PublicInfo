@@ -1,3 +1,10 @@
 [Whiteboard]
 WhiteboardWebContainerWidget.cpp
 WhiteboardWebRenderController.cpp
+SpaceWhiteBoardNewController.cpp
+WhiteBoardNewController.cpp
+InMeetingWhiteBoardController.cpp
+WhiteboardStarterViewModel.cpp
+WhiteboardSessionViewModel.cpp
+WhiteboardService.cpp
+WhiteboardAdapter.cpp
