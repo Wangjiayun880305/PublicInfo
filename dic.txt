@@ -1,4 +1,4 @@
-[Whiteboard]
+[[Whiteboard]]
 WhiteboardWebContainerWidget.cpp
 WhiteboardWebRenderController.cpp
 SpaceWhiteBoardNewController.cpp
@@ -9,6 +9,6 @@ WhiteboardSessionViewModel.cpp
 WhiteboardService.cpp
 WhiteboardAdapter.cpp
 
-[BO]
+[[BO]]
 BreakoutSessionManager.cpp
 LOCUS_DTO
