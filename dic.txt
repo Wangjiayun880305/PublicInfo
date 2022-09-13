@@ -11,4 +11,5 @@ WhiteboardAdapter.cpp
 
 [[BO]]
 BreakoutSessionManager.cpp
+BreakoutAdapter.cpp
 LOCUS_DTO
