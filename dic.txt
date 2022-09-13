@@ -10,6 +10,7 @@ WhiteboardService.cpp
 WhiteboardAdapter.cpp
 
 [[BO]]
+BreakoutSessionViewModel.cpp
 BreakoutSessionManager.cpp
 BreakoutAdapter.cpp
 LOCUS_DTO
