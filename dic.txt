@@ -8,3 +8,7 @@ WhiteboardStarterViewModel.cpp
 WhiteboardSessionViewModel.cpp
 WhiteboardService.cpp
 WhiteboardAdapter.cpp
+
+[BO]
+BreakoutSessionManager.cpp
+LOCUS_DTO
