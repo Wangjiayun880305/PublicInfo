@@ -4,6 +4,7 @@ WhiteboardWebRenderController.cpp
 SpaceWhiteBoardNewController.cpp
 WhiteBoardNewController.cpp
 InMeetingWhiteBoardController.cpp
+WhiteboardJavascriptHandler.cpp
 WhiteboardStarterViewModel.cpp
 WhiteboardSessionViewModel.cpp
 WhiteboardService.cpp
