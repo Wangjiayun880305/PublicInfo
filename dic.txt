@@ -10,6 +10,9 @@ WhiteboardStarterViewModel.cpp
 WhiteboardSessionViewModel.cpp
 WhiteboardService.cpp
 WhiteboardAdapter.cpp
+webex-meetings-whiteboard-enabled
+qml-video-layout-enabled
+whiteboard-webview-render-enabled
 
 [[BO]]
 BreakoutSessionViewModel.cpp
