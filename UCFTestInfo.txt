@@ -1,4 +1,5 @@
 PR package http://spark-nfs.cisco.com/pull_request_artifacts/
+http://dlwebex.jabberqa.cisco.com/
 
 git remote add jiaguozucode git@sqbu-github.cisco.com:jiaguozu/spark-client-framework.git
 
