@@ -1,3 +1,6 @@
+[[QT Error]]
+handleQtOutput
+
 [[Whiteboard]]
 WhiteboardWebContainerWidget.cpp
 WhiteboardWebRenderController.cpp
