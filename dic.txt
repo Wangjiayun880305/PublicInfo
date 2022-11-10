@@ -23,3 +23,8 @@ BreakoutSessionViewModel.cpp
 BreakoutSessionManager.cpp
 BreakoutAdapter.cpp
 LOCUS_DTO
+
+[[Linux Check]]
+Browser.cpp
+WhiteboardWebContainerWidget.cpp
+NativeWindowUtils.cpp
