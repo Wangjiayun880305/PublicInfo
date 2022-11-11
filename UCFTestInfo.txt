@@ -14,7 +14,7 @@ linux-webex-meetings-whiteboard-enabled-ga
 linux-whiteboard-webview-render-enabled
 warhol-beta-board-call-sharing
 
-join 10024754511@convergedats.webex.com with 27 ucf_api duration=120
+join 20020921187@co.webex.com audio=on video=on with 27 ucf_api duration=120
 join 2091600723@go.webex.com video=off with 20 webex_api duration=30
 
 toggle autoUpdatePolicy = Off
