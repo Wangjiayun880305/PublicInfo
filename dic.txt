@@ -18,6 +18,11 @@ webex-meetings-whiteboard-enabled
 qml-video-layout-enabled
 whiteboard-webview-render-enabled
 
+[[WBStatus]]
+WhiteboardStarterViewModel::processWhiteboardSharingStateChanged
+WhiteboardWebContainerWidget::WhiteboardWebContainerWidget
+WhiteboardWebContainerWidget::~WhiteboardWebContainerWidget
+
 [[BO]]
 BreakoutSessionViewModel.cpp
 BreakoutSessionManager.cpp
