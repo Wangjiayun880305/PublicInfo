@@ -25,6 +25,7 @@ WhiteboardWebContainerWidget::~WhiteboardWebContainerWidget
 
 [[WBCheck]]
 InMeetingWhiteBoardNewController::openWhiteboardByUrl
+InMeetingWhiteBoardNewController::setCreateWhiteBoardInfo
 InMeetingWhiteBoardNewController::onWhiteboardSessionClosed
 
 [[BO]]
