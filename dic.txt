@@ -27,6 +27,8 @@ WhiteboardWebContainerWidget::~WhiteboardWebContainerWidget
 InMeetingWhiteBoardNewController::openWhiteboardByUrl
 InMeetingWhiteBoardNewController::setCreateWhiteBoardInfo
 InMeetingWhiteBoardNewController::onWhiteboardSessionClosed
+InMeetingWhiteBoardNewController::onWhiteboardSession
+getChannel
 
 [[BO]]
 BreakoutSessionViewModel.cpp
