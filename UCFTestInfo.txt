@@ -6,6 +6,9 @@ http://bot.jabberqa.cisco.com/
 Record
 https://app.vidcast.io/
 
+https://sqbu-github.cisco.com/jiaguozu/spark-client-framework/tree/back1209
+https://sqbu-github.cisco.com/WebExSquared/spark-client-framework/pull/122205
+
 git remote add jiaguozucode git@sqbu-github.cisco.com:jiaguozu/spark-client-framework.git
 
 CiscoCollabHost.exe /serverEnv=integration
