@@ -41,3 +41,6 @@ Browser.cpp
 WhiteboardWebContainerWidget.cpp
 NativeWindowUtils.cpp
 
+[[CallWindowRelated]]
+CallWindowManager.cpp
+CallWindowController.cpp
