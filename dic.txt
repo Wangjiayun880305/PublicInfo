@@ -46,3 +46,6 @@ NativeWindowUtils.cpp
 [[CallWindowRelated]]
 CallWindowManager.cpp
 CallWindowController.cpp
+
+[[Overlay]]
+WhiteboardOverlayController.cpp
