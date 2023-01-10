@@ -49,3 +49,5 @@ CallWindowController.cpp
 
 [[Overlay]]
 WhiteboardOverlayController.cpp
+WhiteboardWebContainerWidget.cpp
+WebViewInfo.cpp
