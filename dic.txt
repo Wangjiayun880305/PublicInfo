@@ -1,6 +1,9 @@
 [[QT Error]]
 handleQtOutput
 
+[[Qml]]
+Qml statusChanged
+
 [[Whiteboard]]
 WhiteboardWebContainerWidget.cpp
 WhiteboardWebRenderController.cpp
