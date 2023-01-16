@@ -52,3 +52,7 @@ MediaContainerCoordinator.cpp
 WhiteboardOverlayController.cpp
 WhiteboardWebContainerWidget.cpp
 WebViewInfo.cpp
+
+[[NetworkRequest]]
+HttpRequestManager.cpp
+
