@@ -56,3 +56,6 @@ WebViewInfo.cpp
 [[NetworkRequest]]
 HttpRequestManager.cpp
 
+[[Mute]]
+displayTemporarilyUnmuteState
+temporarilyUnmuteStateChanged
