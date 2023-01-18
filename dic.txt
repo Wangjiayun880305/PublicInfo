@@ -62,3 +62,13 @@ HttpRequestManager.cpp
 [[Mute]]
 displayTemporarilyUnmuteState
 temporarilyUnmuteStateChanged
+
+[[Annotation]]
+AnnotationPresenterController.cpp
+AnnotationRequesterController.cpp
+AnnotationPresenterViewModel.cpp
+AnnotationRequesterViewModel.cpp
+AnnotationPresenterManager.cpp
+AnnotationRequesterManager.cpp
+AnnotationSessionManager.cpp
+AnnotationProtocol.cpp
