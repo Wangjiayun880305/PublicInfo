@@ -27,6 +27,7 @@ warhol-beta-board-call-sharing
 
 join 20020921187@co.webex.com audio=on video=on with 27 ucf_api duration=120
 join 2091600723@go.webex.com video=off with 20 webex_api duration=30
+join jiaguozu@go
 
 toggle autoUpdatePolicy = Off
 
