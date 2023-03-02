@@ -74,3 +74,5 @@ AnnotationSessionManager.cpp
 AnnotationProtocol.cpp
 AnnotationSessionViewModel.cpp
 
+[[libwhiteboard]]
+WhiteboardSessionManager::init
