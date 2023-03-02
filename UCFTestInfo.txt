@@ -13,6 +13,7 @@ https://sqbu-github.cisco.com/jiaguozu/spark-client-framework/tree/back1209
 https://sqbu-github.cisco.com/WebExSquared/spark-client-framework/pull/122205
 
 git remote add jiaguozucode git@sqbu-github.cisco.com:jiaguozu/spark-client-framework.git
+git remote add jiaguozu git@sqbu-github.cisco.com:jiaguozu/libwhiteboarding.git
 
 CiscoCollabHost.exe /serverEnv=integration
 SparkWindowsDirect.exe /serverEnv=integration
