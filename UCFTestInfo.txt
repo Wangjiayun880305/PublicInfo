@@ -6,6 +6,8 @@ http://bot.jabberqa.cisco.com/
 ABORT_ON_GLERROR
 :wq
 
+W_QML_PROPERTY_STRING_READ_ONLY
+
 Enable toggle
 https://engci-private-sjc.cisco.com/jenkins/jabber-ci-ng/job/Auto_Toggle/job/Enable_Toggle_For_Blue_Canary_Beta_Channel/build?delay=0sec
 
