@@ -1,5 +1,10 @@
+Metrics
+https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258594031
+https://wapgrafana-sjc.webex.com/d/x7DinMVVk/ucf-feature-usage?orgId=1
+https://wapgrafana-staging.webex.com/d/x7DinMVVk/ucf-feature-usage?orgId=1
+
 PR package http://spark-nfs.cisco.com/pull_request_artifacts/
-https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=75050658
+Teams share: https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=75050658
 http://dlwebex.jabberqa.cisco.com/
 http://bot.jabberqa.cisco.com/
 
