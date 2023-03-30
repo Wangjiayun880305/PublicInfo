@@ -4,6 +4,10 @@ handleQtOutput
 [[Qml]]
 Qml statusChanged
 
+[[CrashCheck]]
+SparkPrtImpl::topLevelRuntimeExpectionFilter:Into unhandled exception filter
+win32::process::launch:Attempting to launch prt process
+
 [[Whiteboard]]
 WhiteboardWebContainerWidget.cpp
 WhiteboardWebRenderController.cpp
