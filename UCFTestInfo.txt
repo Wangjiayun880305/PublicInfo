@@ -2,6 +2,7 @@ UTFocusManager
     forceNavigation: true
     wrapAround: false
     focusableItems: [controlBar]
+    Component.onCompleted: updateFocusList()
 
 [Metrics]
 https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258594031
