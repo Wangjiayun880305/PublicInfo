@@ -1,3 +1,8 @@
+UTFocusManager
+    forceNavigation: true
+    wrapAround: false
+    focusableItems: [controlBar]
+
 [Metrics]
 https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258594031
 MC definition: https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258575426
