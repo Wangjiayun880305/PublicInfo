@@ -5,6 +5,7 @@ UTFocusManager
     Component.onCompleted: updateFocusList()
 
 SingleInstanceChecker
+whiteboarddumphelper
 
 [Metrics]
 https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258594031
