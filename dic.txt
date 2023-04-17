@@ -78,6 +78,7 @@ AnnotationSessionManager.cpp
 AnnotationProtocol.cpp
 AnnotationSessionViewModel.cpp
 AnnotationDataChannel.cpp
+AnnotationNotificationHandler.cpp
 
 [[AnnotationShareSide]]
 ShareViewController.cpp
