@@ -7,6 +7,8 @@ UTFocusManager
 SingleInstanceChecker
 whiteboarddumphelper
 
+void AnnotationDataChannel::onAnnotationClientMercuryAdapterEvent
+
 [Metrics]
 https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258594031
 MC definition: https://confluence-eng-gpk2.cisco.com/conf/pages/viewpage.action?pageId=258575426
