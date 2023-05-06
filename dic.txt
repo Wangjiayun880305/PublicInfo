@@ -27,6 +27,12 @@ webex-meetings-whiteboard-enabled
 qml-video-layout-enabled
 whiteboard-webview-render-enabled
 
+[[OldWhiteboard]]
+WhiteboardViewWidget.cpp
+WhiteBoardManager.cpp
+WhiteBoardView
+WhiteBoardBridge
+
 [[WBStatus]]
 WhiteboardStarterViewModel::processWhiteboardSharingStateChanged
 WhiteboardWebContainerWidget::WhiteboardWebContainerWidget
