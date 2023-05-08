@@ -93,3 +93,6 @@ LocalShareViewController.cpp
 
 [[libwhiteboard]]
 WhiteboardSessionManager::init
+
+[[VideoLayout]]
+LeftVideoContainerController.cpp
