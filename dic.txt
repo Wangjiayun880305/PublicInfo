@@ -1,6 +1,10 @@
 [[QT Error]]
 handleQtOutput
 
+[[BUG Check]]
+WhiteboardWebContainerWidget::showBrowser
+LeftVideoContainerController::updateStreams
+
 [[Qml]]
 Qml statusChanged
 
