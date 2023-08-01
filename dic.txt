@@ -31,6 +31,12 @@ webex-meetings-whiteboard-enabled
 qml-video-layout-enabled
 whiteboard-webview-render-enabled
 
+[[WhiteboardHub]]
+WhiteboardAdapter.cpp
+WhiteboardListManager.cpp
+WhiteboardHubViewModel.cpp
+WhiteboardHubContentViewModel.cpp
+
 [[OldWhiteboard]]
 WhiteboardViewWidget.cpp
 WhiteBoardManager.cpp
