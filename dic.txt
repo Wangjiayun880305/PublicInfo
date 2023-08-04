@@ -36,6 +36,8 @@ WhiteboardAdapter.cpp
 WhiteboardListManager.cpp
 WhiteboardHubViewModel.cpp
 WhiteboardHubContentViewModel.cpp
+WhiteboardHubController.cpp
+WhiteboardHubContentController.cpp
 
 [[OldWhiteboard]]
 WhiteboardViewWidget.cpp
