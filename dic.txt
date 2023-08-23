@@ -3,6 +3,12 @@ InMeetingWhiteBoardController.cpp
 WhiteBoardItemProvider.cpp
 WhiteboardWebContainerWidget.cpp
 
+[[WBToggleCheck]]
+webex-meetings-whiteboard-enabled
+whiteboard-webview-render-enabled
+share-existing-whiteboard-enabled
+share-existing-whiteboard-warmup-enabled
+
 [[QT Error]]
 handleQtOutput
 
