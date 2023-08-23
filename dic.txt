@@ -3,6 +3,11 @@ InMeetingWhiteBoardController.cpp
 WhiteBoardItemProvider.cpp
 WhiteboardWebContainerWidget.cpp
 
+[[WBMetricsCheck]]
+WhiteboardService.cpp
+WhiteboardMetricsManager.cpp
+FeatureUsageTelemetryManager.cpp
+
 [[WBToggleCheck]]
 webex-meetings-whiteboard-enabled
 whiteboard-webview-render-enabled
