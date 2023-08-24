@@ -37,6 +37,7 @@ InMeetingWhiteBoardController.cpp
 WhiteboardsViewPresenter.cpp
 WhiteboardJavascriptHandler.cpp
 JSSDKWhiteboardBridge.cpp
+JsSdkWhiteboard.cpp
 JSSDKWhiteboardController.cpp
 Browser.cpp
 WhiteboardStarterViewModel.cpp
