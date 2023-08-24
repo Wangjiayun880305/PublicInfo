@@ -3,6 +3,12 @@ InMeetingWhiteBoardController.cpp
 WhiteBoardItemProvider.cpp
 WhiteboardWebContainerWidget.cpp
 
+[[WHL-1687]]
+handleWarholLoadTimeout:whiteboard
+onLoadComplete:web render load completed
+onBoardLoadCompleted:whiteboard lifecycle, web render loaded
+whiteboard webapp JsSdkWhiteboard created
+
 [[WBMetricsCheck]]
 WhiteboardService.cpp
 WhiteboardMetricsManager.cpp
