@@ -4,6 +4,7 @@ WhiteBoardItemProvider.cpp
 WhiteboardWebContainerWidget.cpp
 
 [[WHL-1687]]
+whiteboard.onLoadComplete
 handleWarholLoadTimeout:whiteboard
 onLoadComplete:web render load completed
 onBoardLoadCompleted:whiteboard lifecycle, web render loaded
