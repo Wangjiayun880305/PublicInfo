@@ -20,6 +20,8 @@ webex-meetings-whiteboard-enabled
 whiteboard-webview-render-enabled
 share-existing-whiteboard-enabled
 share-existing-whiteboard-warmup-enabled
+warhol-webview-header
+desktop-warhol-header-view-enabled
 
 [[QT Error]]
 handleQtOutput
