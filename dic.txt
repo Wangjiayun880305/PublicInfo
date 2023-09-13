@@ -1,3 +1,9 @@
+[[AStateMachine]]
+TelephonyStateMachine.cpp
+[CallState]
+[LocusState]
+[MediaState]
+
 [[UICheck]]
 InMeetingWhiteBoardController.cpp
 WhiteBoardItemProvider.cpp
