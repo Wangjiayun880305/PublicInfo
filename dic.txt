@@ -1,3 +1,8 @@
+[ASignIn]
+OnboardingController.cpp
+OnboardingView.cpp
+OnboardingViewModel.cpp
+
 [[AStateMachine]]
 TelephonyStateMachine.cpp
 [CallState]
